@@ -5,3 +5,4 @@ This repository is used for:
 - Issue Tracking
 - Suggestions
 - Translations
+- Wikis
